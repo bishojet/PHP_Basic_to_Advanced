@@ -1,7 +1,8 @@
 <?php
 
-// Variable in PHP
+// Constant in PHP
 
-$name = 'John';	
+const NAME = "Sukumar Roy!";
 
-echo $name;
+
+echo NAME;
